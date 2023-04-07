@@ -1,8 +1,13 @@
 name: MFIL DAO improvement proposal
-description: Improvements on MFIL will be promoted in the form of MIP.
+description: All improvements to MFIL will be made through MIP.
 title: "[MIP] <Title of MIP>"
 labels: 'Proposal'
 body:
+- type: input
+  attributes:
+    label: Data Owner Name
+  validations:
+    required: true
 - type: markdown
   attributes:
     value: |
