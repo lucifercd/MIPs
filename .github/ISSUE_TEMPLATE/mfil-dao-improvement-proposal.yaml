@@ -12,6 +12,11 @@ body:
     label: MIP summary
     render: text
     description: Detail the goals and expected outcomes of the proposal. What problem does the proposal aim to solve, and what results are expected after the proposal is implemented.
+    placeholder: |
+                  Example
+                  1. accbt
+                  2. accdt
+                  3. accdt...
   validations:
     required: true
 - type: textarea
@@ -19,6 +24,11 @@ body:
     label: MIP motivation
     render: text
     description: Describe current problems or existing gaps. Describe the impact of these issues on relevant parties and why they need to be addressed.
+    placeholder: |
+                  Example
+                  1. accbt
+                  2. accdt
+                  3. accdt...
   validations:
     required: true
 - type: textarea
@@ -28,9 +38,9 @@ body:
     description: Describe in detail the method and steps to implement and solve the problem. Why did you choose this way to implement the change, and what are the considerations and trade-offs. A description of alternative designs and related work that have been considered, along with their strengths and weaknesses, can be added.
     placeholder: |
                   Example
-                    1. accbt
-                    2. accdt
-                    3. accdt...
+                  1. accbt
+                  2. accdt
+                  3. accdt...
   validations:
     required: true
 - type: textarea
