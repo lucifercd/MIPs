@@ -13,48 +13,48 @@ body:
   validations:
     required: true
 - type: textarea
-attributes:
-label: MIP summary
-render: text
-validations:
-required: true
+  attributes:
+    label: MIP summary
+    render: text
+  validations:
+    required: true
 - type: textarea
-attributes:
-label: MIP motivation
-render: text
-validations:
-required: true
+  attributes:
+    label: MIP motivation
+    render: text
+  validations:
+    required: true
 - type: textarea
-attributes:
-label: MIP content
-render: text
-validations:
-required: true
+  attributes:
+    label: MIP content
+    render: text
+  validations:
+    required: true
 - type: textarea
-attributes:
-label: Test case
-render: text
-validations:
-required: false
+  attributes:
+    label: Test case
+    render: text
+  validations:
+    required: false
 - type: dropdown
-attributes:
-label: If the proposal is technical, please provide a copyright exemption.
-options:
-- Apache License 2.0
-- GNU General Public License v3.0
-- MIT License
-- BSD 2-Clause "Simplified" License
-- BSD 3-Clause "New" or "Revised" License
-- Boost Software License 1.0
-- Creative Commons Zero v1.0 Universal
-- Eclipse Public License 2.0
-- GNU Affero General Public License v3.0
-- GNU General Public License v2.0
-- GNU Lesser General Public License v2.1
-- Mozilla Public License 2.0
-- The Unlicense
-validations:
-required: false
+  attributes:
+    label: If the proposal is technical, please provide a copyright exemption.
+    options:
+      - Apache License 2.0
+      - GNU General Public License v3.0
+      - MIT License
+      - BSD 2-Clause "Simplified" License
+      - BSD 3-Clause "New" or "Revised" License
+      - Boost Software License 1.0
+      - Creative Commons Zero v1.0 Universal
+      - Eclipse Public License 2.0
+      - GNU Affero General Public License v3.0
+      - GNU General Public License v2.0
+      - GNU Lesser General Public License v2.1
+      - Mozilla Public License 2.0
+      - The Unlicense
+  validations:
+    required: false
       
   
   
