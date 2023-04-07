@@ -30,8 +30,7 @@ body:
                   "Example|
                     1. accbt|
                     2. accdt|
-                    3. accdt|
-                    ......"|
+                    3. accdt...
   validations:
     required: true
 - type: textarea
