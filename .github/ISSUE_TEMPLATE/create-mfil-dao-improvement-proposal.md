@@ -8,20 +8,20 @@ assignees: sghmok
 
 ---
 
-## MIP title
-_ _ Please enter title here.
+### MIP title
+_Please enter title here._
 
 ### MIP summary
-_ _ Detail the goals and expected outcomes of the proposal. What problem does the proposal aim to solve, and what results are expected after the proposal is implemented.
+_Detail the goals and expected outcomes of the proposal. What problem does the proposal aim to solve, and what results are expected after the proposal is implemented._
 
 ### Motivation for launching MIP
-_ _ Describe current problems or existing gaps. Describe the impact of these issues on relevant parties and why they need to be addressed.
+_Describe current problems or existing gaps. Describe the impact of these issues on relevant parties and why they need to be addressed._
 
 ### MIP details
-_ _ Describe in detail the method and steps to implement and solve the problem. Why did you choose this way to implement the change, and what are the considerations and trade-offs. A description of alternative designs and related work that have been considered, along with their strengths and weaknesses, can be added.
+_Describe in detail the method and steps to implement and solve the problem. Why did you choose this way to implement the change, and what are the considerations and trade-offs. A description of alternative designs and related work that have been considered, along with their strengths and weaknesses, can be added._
 
 ### Test case
-_ _ More test cases can be added during the execution of the proposal.
+_More test cases can be added during the execution of the proposal._
 
 ### Copyright Waiver (Optional)
-_ _ If technical proposal, please add copyright exemption
+_If technical proposal, please add copyright exemption_
