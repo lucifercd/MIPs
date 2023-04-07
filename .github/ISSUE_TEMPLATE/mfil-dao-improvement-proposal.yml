@@ -40,7 +40,7 @@ body:
     attributes:
       label: If the proposal is technical, please provide a copyright exemption.
       options:
-       - None
+       - 'None'
        - Apache License 2.0
        - GNU General Public License v3.0
        - MIT License
