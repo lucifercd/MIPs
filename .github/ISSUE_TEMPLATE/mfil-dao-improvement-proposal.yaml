@@ -7,11 +7,6 @@ body:
   attributes:
     value: |
       To suggest improvements to MFIL here, please fill out the form below.
-- type: input
-  attributes:
-    label: MIP title
-  validations:
-    required: true
 - type: textarea
   attributes:
     label: MIP summary
