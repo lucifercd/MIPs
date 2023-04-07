@@ -26,10 +26,10 @@ body:
     label: MIP content
     render: text
     description: Describe in detail the method and steps to implement and solve the problem. Why did you choose this way to implement the change, and what are the considerations and trade-offs. A description of alternative designs and related work that have been considered, along with their strengths and weaknesses, can be added.
-    placeholder: Example:|
-                    1. accbt;|
-                    2. accdt;|
-                    3. accdt;|
+    placeholder: Example|
+                    1. accbt|
+                    2. accdt|
+                    3. accdt|
                     ......|
   validations:
     required: true
